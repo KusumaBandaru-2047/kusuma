@@ -1,0 +1,6 @@
+{
+  "name": "InnoSmart — AI Hospital Readmission Intelligence",
+  "description": "Clinical intelligence platform for exploring 30-day hospital readmission risk, analyzing dataset quality, and prioritizing patient follow-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
